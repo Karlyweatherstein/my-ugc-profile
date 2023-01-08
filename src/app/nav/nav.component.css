@@ -1,0 +1,40 @@
+/* Nav bar */
+* {
+  background-color: rgba(190, 110, 118, 255);
+  padding: 5px 0;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-around;
+}
+
+.nav ul {
+  color: #b3beb3;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  list-style: none;
+  margin-right: 10px;
+}
+
+nav ul li {
+  padding: 8px;
+}
+
+.nav ul li a,
+.nav ul li span {
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+  font-size: large;
+}
+
+.nav ul li:hover,
+.nav ul li a:hover,
+.nav ul li span:hover {
+  color: rgb(200, 197, 197);
+  border-radius: 15px;
+}

@@ -1,0 +1,56 @@
+.contact {
+  justify-content: center;
+  background-color: rgba(190, 110, 118, 255);
+  margin: 40px auto;
+  width: 50%;
+  text-align: center;
+  color: white;
+  padding: 2px;
+  border-radius: 10px;
+}
+
+h1 {
+  background-color: rgba(190, 110, 118, 255);
+  margin: 14px;
+  padding-bottom: 6px;
+  border-bottom: solid white 1px;
+}
+
+p {
+  background-color: rgba(190, 110, 118, 255);
+  padding: 2px;
+  margin: 2px;
+}
+
+div {
+  background-color: rgba(190, 110, 118, 255);
+  padding: 4px;
+}
+
+textarea {
+  font-family: "PT Sans", sans-serif;
+  border-radius: 5px;
+  border: none;
+}
+
+input {
+  border-radius: 5px;
+  font-family: "PT Sans", sans-serif;
+  margin: 2px;
+  border: none;
+}
+
+button {
+  background-color: white;
+  color: rgba(190, 110, 118, 255);
+  border: none;
+  border-radius: 8px;
+  padding: 5px;
+  font-family: "PT Sans", sans-serif;
+  margin: 4px;
+}
+
+button:hover {
+  background-color: rgb(215, 164, 164);
+  color: white;
+}

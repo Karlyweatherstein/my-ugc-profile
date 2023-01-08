@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+  background-color: rgb(254, 218, 211);
+  position: relative;
+  margin: 0;
+}
+
+.titles {
+  font-family: "EB Garamond", serif;
+  font-size: xx-large;
+}
+
+.paragraph {
+  font-family: "Cormorant", serif;
+}
